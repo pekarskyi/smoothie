@@ -1,1 +1,3 @@
-# smoothie
+# Smoothie
+
+Frontend - HTML and CSS
