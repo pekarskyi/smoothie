@@ -2,4 +2,4 @@
 
 Frontend - HTML and CSS
 
-[View Page](https://pekarskyi.github.io/smoothie.github.io/)
+[View Page](https://pekarskyi.github.io/smoothie/)
