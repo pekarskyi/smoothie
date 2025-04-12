@@ -1,4 +1,4 @@
-# Smoothie
+# Smoothie site
 
 Frontend - HTML and CSS
 
